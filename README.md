@@ -8,7 +8,7 @@ A simple AI chatbot built using Hugging Face's `transformers` library. It uses t
 
 ```bash
 python -m venv venv
-source venv/Scripts/activate  # On Git Bash or Linux
+source venv/Scripts/activate  
 ```
 
 2. Install dependencies:
